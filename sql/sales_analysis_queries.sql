@@ -1,3 +1,5 @@
+-- Use the retail_sales database
+USE retail_sales;
 
 -- Calculate total revenue generated from all sales transactions
 SELECT 
